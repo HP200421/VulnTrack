@@ -83,6 +83,3 @@ var responseBody = response.getBody();
 
 - Add Email Notifications for critical vulnerabilities.
 
-## 📧 Contact
-
-For any questions, reach out to: __pankajpawar5259@gmail.com__
